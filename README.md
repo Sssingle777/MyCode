@@ -1,1 +1,3 @@
 # Assignment-Code
+
+某计算机专业学生，正严肃学习使用GitHub中……
